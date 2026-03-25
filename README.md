@@ -51,7 +51,6 @@ Etapas principales:
 7. Cálculo de KPIs
 8. Análisis de impacto económico
 9. Visualización de resultados
-10. Exportación final
 
 ---
 
@@ -119,6 +118,23 @@ Se detectaron:
 - registros sin correspondencia en maestros
 
 Esto afecta directamente la confiabilidad del análisis y la toma de decisiones.
+
+---
+
+
+### Visualizaciones
+### 👤 Top responsables con más fallas
+![Top responsables](images/top_10_responsables_mas_fallas.png)
+
+---
+
+### 🏭 Cantidad de fallas por área
+![Fallas por área](images/cantidad_fallas_area.png)
+
+---
+
+### ⚠️ Tipos de falla más frecuentes
+![Tipos de falla](images/tipos_fallas_mas_frecuentes.png)
 
 ---
 
