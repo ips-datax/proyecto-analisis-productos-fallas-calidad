@@ -126,11 +126,9 @@ Esto afecta directamente la confiabilidad del análisis y la toma de decisiones.
 
 ![Top responsables](images/top_10_responsables_mas_fallas.png)
 
----
 
 ![Fallas por área](images/cantidad_fallas_area.png)
 
----
 
 ![Tipos de falla](images/tipos_fallas_mas_frecuentes.png)
 
